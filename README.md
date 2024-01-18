@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá pessoal! 👋, Eu sou João Kleber Linhalis, um estudante do 8º periodo de Sistemas de Informação. <br>
+Olá pessoal! 👋, Eu sou João Kleber Linhalis e possuo Bacharelado em Sistemas de Informação pelo IFES. <br>
 Desenvolvedor Full Stack & Mobile em crescimento e aprendizagem.
 
 ### Principais Habilidades
