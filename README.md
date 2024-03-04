@@ -23,10 +23,14 @@ Desenvolvedor Full Stack & Mobile em crescimento e aprendizagem.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL
 
+
 #### Mobile Development
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"/> Flutter
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"/> Dart
 
+<br></br>
+<img src="banner.gif" align="right"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jkfable&layout=compact&theme=blue_navy" alt="wakatime"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Kleber-Linhalis&theme=dracula&hide_langs_below=1" />
 
 ### Entre em Contato!
