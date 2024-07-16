@@ -35,6 +35,6 @@ Desenvolvedor Full Stack & Mobile em crescimento e aprendizagem.
 
 ### Entre em Contato!
 
-[![Instagram](https://img.shields.io/badge/Instagram-@jk_linhalis-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/seuinstagram/)
+[![Instagram](https://img.shields.io/badge/Instagram-@jk_linhalis-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/jk_linhalis/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Kleber%20Linhalis-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-kleber-linhalis/)
 [![Gmail](https://img.shields.io/badge/Gmail-jklinhalis%40gmail.com-pink?style=for-the-badge&logo=gmail)](mailto:jklinhalis@gmail.com)
