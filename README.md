@@ -35,9 +35,8 @@ I am a Full Stack & Mobile Developer, continuously growing and learning.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"/> Dart
 
 <br></br>
-<img src="banner.gif" align="right" width ="300px"/>
+<img src="banner.gif" align="right" width ="380px"/>
 <img width="420em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jkfable&layout=compact&theme=blue_navy" alt="wakatime"/>
-<br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Kleber-Linhalis&theme=dracula&hide_langs_below=1" />
 
 ### Entre em Contato! // Contact Me!
