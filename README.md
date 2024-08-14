@@ -46,7 +46,7 @@ Currently, I am a Junior Flutter Developer at [Código com Café](https://github
 </p>
 
 <p align="center">
-  <img width="100%" src="banner2.gif" alt="Thank You!">
+  <img width="78%" src="banner3.gif" alt="Thank You!">
 </p>
 
 
