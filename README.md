@@ -6,12 +6,12 @@
 
 ## Sobre Mim // About me
 
-Eu sou João Kleber Linhalis e possuo Bacharelado em Sistemas de Informação pelo IFES. <br> 
+Prazer! Me chamo João Kleber Linhalis e sou Bacharel em Sistemas de Informação pelo IFES. <br> 
 Atualmente, estou cursando uma pós-graduação em Desenvolvimento Mobile, com foco em desenvolvimento multiplataforma e nativo. <br> 
 Sou um Desenvolvedor Full Stack & Mobile em constante crescimento e aprendizagem. <br>
 Atualmente sou um Desenvolvedor Flutter Junior na [Código com Café](https://github.com/codigo-com-cafe).
 
-I am João Kleber Linhalis, and I hold a Bachelor's degree in Information Systems from IFES. <br> 
+Nice to meet you! My name is João Kleber Linhalis, and I hold a Bachelor's degree in Information Systems from IFES. <br> 
 I am currently pursuing a postgraduate degree in Mobile Development, with a focus on cross-platform and native development. <br> 
 I am a Full Stack & Mobile Developer, continuously growing and learning. <br>
 Currently, I am a Junior Flutter Developer at [Código com Café](https://github.com/codigo-com-cafe).
