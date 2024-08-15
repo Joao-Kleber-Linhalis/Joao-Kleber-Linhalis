@@ -25,7 +25,7 @@ Currently, I am a Junior Flutter Developer at [Código com Café](https://github
 #### Frontend 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML5
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS3
-- <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="20" height="20"/> Angular
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="20" height="20"/> Angular
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> TypeScript
 
 #### Backend 
