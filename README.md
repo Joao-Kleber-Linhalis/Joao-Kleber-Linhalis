@@ -1,46 +1,50 @@
-## Bem-Vindos ao Meu Perfil 👋 // Welcome to My Profile 👋
+<h1 align = "center">Welcome to My Profile 👋</h1>
 
 <p align="center">
   <img width="100%" src="hello_banner.gif" alt="Hello Guys!">
 </p>
 
-## Sobre Mim // About me
+&nbsp;
 
-Prazer! Me chamo João Kleber Linhalis e sou Bacharel em Sistemas de Informação pelo IFES. <br> 
-Atualmente, estou cursando uma pós-graduação em Desenvolvimento Mobile, com foco em desenvolvimento multiplataforma e nativo. <br> 
-Sou um Desenvolvedor Full Stack & Mobile em constante crescimento e aprendizagem. <br>
-Atualmente sou um Desenvolvedor Flutter Junior na [Código com Café](https://github.com/codigo-com-cafe).
+<div align ="center">
+<h1>About me</h1>
+<p align ="left"> - 💻 Bachelor's degree in Information Systems from IFES. </p>
+<p align="left"> - 💼 I’m working at <a href="https://github.com/codigo-com-cafe">Código com Café</a> as a Junior Flutter Developer. </p>
+<p align ="left">- 📚 Pursuing a Postgraduate Degree in Mobile Development. </p>
+<p align ="left"> - ⚡ In my free time, I watch some anime and play games (currently, I'm platinum-ing Elden Ring) </p>
+</div>
 
-Nice to meet you! My name is João Kleber Linhalis, and I hold a Bachelor's degree in Information Systems from IFES. <br> 
-I am currently pursuing a postgraduate degree in Mobile Development, with a focus on cross-platform and native development. <br> 
-I am a Full Stack & Mobile Developer, continuously growing and learning. <br>
-Currently, I am a Junior Flutter Developer at [Código com Café](https://github.com/codigo-com-cafe).
+&nbsp;
 
-### Competências // Hard Skills
+<h1 align ="center">🛠 Language and tools</h1>
 
-#### IDEs 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Vs Code" width="20" height="20"/>  Visual Studio Code
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Intellij" width="20" height="20"/>  Intellij
-
-#### Linguagens
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML5
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS3
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> TypeScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20" height="20"/> Dart
-
-#### Bancos de Dados
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL
-
-#### Frontend
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="20" height="20"/> Angular
-
-#### Backend
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20"/> Spring Boot
-
-#### Mobile
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"/> Flutter
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
 
 &nbsp;
 <p align="center">
@@ -54,8 +58,21 @@ Currently, I am a Junior Flutter Developer at [Código com Café](https://github
 </p>
 
 
-### Entre em Contato! // Contact Me!
 
-[![Instagram](https://img.shields.io/badge/Instagram-@jk_linhalis-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/jk_linhalis/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Kleber%20Linhalis-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-kleber-linhalis/)
-[![Gmail](https://img.shields.io/badge/Gmail-jklinhalis%40gmail.com-pink?style=for-the-badge&logo=gmail)](mailto:jklinhalis@gmail.com)
+
+<div align="center">
+  <h1 align ="center">Contact Me!</h1>
+  <a href="https://www.linkedin.com/in/joao-kleber-linhalis/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.discordapp.com/users/272062247835009024" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jklinhalis@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+###
