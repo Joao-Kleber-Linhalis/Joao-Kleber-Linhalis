@@ -11,7 +11,7 @@
 <p align ="left"> - 💻 Bachelor's degree in Information Systems from IFES. </p>
 <p align="left"> - 💼 I’m working at <a href="https://github.com/codigo-com-cafe">Código com Café</a> as a Junior Flutter Developer. </p>
 <p align ="left">- 📚 Pursuing a Postgraduate Degree in Mobile Development. </p>
-<p align ="left"> - ⚡ In my free time, I watch some anime and play games (currently, I'm platinum-ing Elden Ring) </p>
+<p align ="left"> - ⚡ In my free time, I watch some anime and play games (currently, I'm platinum-ing Sekiro) </p>
 </div>
 
 &nbsp;
