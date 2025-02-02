@@ -1,10 +1,9 @@
 <h1 align = "center">Welcome to My Profile 👋</h1>
 
 <p align="center">
-  <img width="100%" src="hello_banner.gif" alt="Hello Guys!">
+  <img width="50%" src="hello_banner.gif" alt="Hello Guys!">
 </p>
 
-&nbsp;
 
 <div align ="center">
 <h1>About me</h1>
@@ -41,6 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -53,9 +54,9 @@
   <img height= "320em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jkfable&layout=compact&theme=blue_navy" alt="wakatime"/>
 </p>
 
-<p align="center">
+<!---<p align="center">
   <img width="78%" src="banner3.gif" alt="Thank You!">
-</p>
+</p> -->
 
 
 
